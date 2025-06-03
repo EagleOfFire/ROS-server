@@ -1,0 +1,27 @@
+{
+  "$schema": "file:///D:/Computer_science/TestRoot2/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Rise-of-Shinobi (Minecraft 1.20.1)",
+    "description": "Rise-of-Shinobi Running Minecraft 1.20.1 (Forge v47.3.6)",
+    "icon": "https://github.com/EagleOfFire/Minecraft-Launcher/blob/df3524741734c57dfc8e78ca512b598d69896c5c/ROS.png?raw=true",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.6"
+  },
+  "modules": {
+ 	"id": "bsl_shaders",
+  	"type": "File",
+  	"required": true,
+  	"artifact": "shaderpacks/BSL_v8.2.05.zip"
+  },
+  "untrackedFiles": []
+}
