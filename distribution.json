@@ -1,5 +1,6 @@
+
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -643,13 +644,13 @@
           }
         },
         {
-          "id": "ros.eagleoffire:roshud:0.2@jar",
+          "id": "ros.eagleoffire:roshud:0.3@jar",
           "name": "Roshud",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8085,
-            "url": "https://github.com/EagleOfFire/ROS-server/raw/refs/heads/main/servers/Rise-of-Shinobi-1.20.1/forgemods/required/roshud-0.2.jar",
-            "MD5": "16e9cc927d9365815276d52b485f5363"
+            "size": 112392,
+            "url": "https://github.com/EagleOfFire/ROS-server/raw/refs/heads/main/servers/Rise-of-Shinobi-1.20.1/forgemods/required/roshud-0.3.jar",
+            "MD5": "07c8b4e9e614e5596c467a94a6c927a9"
           }
         },
         {
