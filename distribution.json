@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -13,15 +13,15 @@
       "description": "Rise-of-Shinobi Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/EagleOfFire/Minecraft-Launcher/blob/df3524741734c57dfc8e78ca512b598d69896c5c/ROS.png?raw=true",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "91.197.6.249:25667",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 152745,
-            "url": "https://github.com/EagleOfFire/ROS-server/raw/refs/heads/main/servers/ROS-server-1.20.1/forgemods/required/CameraOverhaul-v2.0.3-forge+mc[1.20.0-1.20.5].jar",
+            "url": "https://github.com/EagleOfFire/ROS-server/raw/refs/heads/main/servers/ROS-server-1.20.1/forgemods/required/CameraOverhaul-v2.0.3-forge+mc%5B1.20.0-1.20.5%5D.jar",
             "MD5": "c045cf00551c55e86f4661a45d8a101f"
           }
         },
