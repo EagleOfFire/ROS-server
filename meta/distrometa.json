@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///D:/Computer_science/TestRoot2/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///D:/Minecraft_dev/ROS-server/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
